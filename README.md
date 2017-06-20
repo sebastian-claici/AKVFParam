@@ -14,4 +14,4 @@ are available from [http://www.pardiso-project.org/].
 
 To run, invoke the binary as:
 
-`$ ./AKVFParam horse_b.obj`
+`$ OMP_NUM_THREADS=4 ./AKVFParam horse_b.obj`
