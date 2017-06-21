@@ -18,9 +18,5 @@ To run, invoke the binary as:
 
 Acknowledgments:  
 This work was supported in part by NSF
-CAREER award IIS 1148976. J. Solomon acknowledges fund-
-ing from an MIT Skoltech Seed Fund grant (“Boundary Element
-Methods for Shape Analysis”) and from the MIT Research Sup-
-port Committee (“Structured Optimization for Geometric Prob-
-lems”), as well as Army Research Office grant W911NF-12-R-
-0011 (“Smooth Modeling of Flows on Graphs”).
+CAREER award IIS 1148976. J. Solomon acknowledges funding from an MIT Skoltech Seed Fund grant (“Boundary Element
+Methods for Shape Analysis”) and from the MIT Research Support Committee (“Structured Optimization for Geometric Problems”), as well as Army Research Office grant W911NF-12-R-0011 (“Smooth Modeling of Flows on Graphs”).
