@@ -15,3 +15,12 @@ are available from [http://www.pardiso-project.org/].
 To run, invoke the binary as:
 
 `$ OMP_NUM_THREADS=4 ./AKVFParam horse_b.obj`
+
+Acknowledgments:  
+This work was supported in part by NSF
+CAREER award IIS 1148976. J. Solomon acknowledges fund-
+ing from an MIT Skoltech Seed Fund grant (“Boundary Element
+Methods for Shape Analysis”) and from the MIT Research Sup-
+port Committee (“Structured Optimization for Geometric Prob-
+lems”), as well as Army Research Office grant W911NF-12-R-
+0011 (“Smooth Modeling of Flows on Graphs”).
